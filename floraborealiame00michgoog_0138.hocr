@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraborealiame00michgoog_0138.png"; bbox 0 0 2932 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1142 1705 1151 2422">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1142 1705 1151 2422">
+     <span class='ocr_line' id='line_1_1' title="bbox 1142 1705 1151 2422; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1142 1705 1151 2422; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 557 2028 565 2798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 557 2028 565 2798">
+     <span class='ocr_line' id='line_1_2' title="bbox 557 2028 565 2798; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 557 2028 565 2798; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 235 4106 1423 4322">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 235 4092 1423 4322">
+     <span class='ocr_line' id='line_1_3' title="bbox 235 4106 1370 4188; baseline 0.004 -5"><span class='ocrx_word' id='word_1_3' title='bbox 235 4141 433 4186; x_wconf 59' lang='lat' dir='ltr'>Ram</span> <span class='ocrx_word' id='word_1_4' title='bbox 458 4106 521 4186; x_wconf 68' lang='lat' dir='ltr'>ab.¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 1281 4152 1287 4163; x_wconf 77' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1316 4137 1322 4154; x_wconf 81' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1345 4148 1370 4188; x_wconf 73' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 438 4207 1423 4322; baseline -0.002 -34"><span class='ocrx_word' id='word_1_8' title='bbox 438 4255 469 4288; x_wconf 85' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_9' title='bbox 504 4211 866 4292; x_wconf 72' lang='lat' dir='ltr'><strong>CENTAURELLA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 899 4207 1183 4322; x_wconf 60' lang='lat' dir='ltr'>poeuhabztoes</span> <span class='ocrx_word' id='word_1_11' title='bbox 1415 4281 1423 4315; x_wconf 58' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 435 4317 1058 4396">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 435 4317 1058 4396">
+     <span class='ocr_line' id='line_1_5' title="bbox 435 4317 1058 4396; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 435 4359 471 4394; x_wconf 69' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_13' title='bbox 503 4317 556 4396; x_wconf 86' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_14' title='bbox 580 4357 855 4389; x_wconf 48' lang='lat' dir='ltr'><strong>N··-—········¹*</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 885 4354 1058 4394; x_wconf 67' lang='lat' dir='ltr'><em>memus,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1470 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1470 4934">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1470 4934; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1470 4934; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
